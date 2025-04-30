@@ -4,5 +4,7 @@ public class JavaLab {
         System.out.println("This is a Java lab.");
         System.out.println("Let's learn Java together.");
         System.out.println("Java is a versatile programming language.");
+        System.out.println("Happy coding!");
+        System.out.println("This is a simple Java program.");
     }
 }
